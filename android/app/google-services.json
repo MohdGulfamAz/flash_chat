@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31692902880",
+    "project_id": "flash-chat-81342",
+    "storage_bucket": "flash-chat-81342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31692902880:android:480be29079473228be1b85",
+        "android_client_info": {
+          "package_name": "com.gulfam.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31692902880-2lpa43kjr61l57j8q0t2t4pd31l6g60u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9AF4mFEZGVDKUPda6gR3spbtjIr0uw8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31692902880-2lpa43kjr61l57j8q0t2t4pd31l6g60u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
